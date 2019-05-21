@@ -2,4 +2,4 @@ amazing
 
 testing git on vs code
 
-so this is funy
+so this is funny
